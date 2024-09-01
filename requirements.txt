@@ -1,0 +1,11 @@
+torch
+ultralytics
+opencv-python
+numpy
+python-dotenv
+fastapi
+uvicorn
+onnxruntime
+pillow
+python-multipart
+aiofiles

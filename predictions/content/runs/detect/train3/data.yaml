@@ -1,0 +1,21 @@
+names:
+- afro
+- bantu knots
+- bob
+- braids
+- cornrows
+- fade
+- locs
+- long
+- sisterlocs
+- twa
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: black-hair-detection
+  url: https://universe.roboflow.com/aisha-evering/black-hair-detection/dataset/1
+  version: 1
+  workspace: aisha-evering
+test: test/images
+train: train/images
+val: valid/images
